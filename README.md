@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Welcome+to+Yunwoo's+Git+Hub!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Welcome+to+Yunwoo's+GitHub!+👋;" />
 
 
 ## ⭐ Self Instruction ⭐
