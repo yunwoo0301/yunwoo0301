@@ -10,11 +10,17 @@
 
 <div align="center">
   
- 🤔 <span> 트렌드 적응하며 끊임없이 분석하는 개발자가 되겠습니다. </span>
+ 🤔 <span> 트렌드에 적응하며 끊임없이 분석하는 개발자가 되겠습니다. </span>
  
  🤝 <span> 원활한 팀워크는 결국 성공의 결과물로 나타납니다.  </span>
 
- ✍️ <span> 늘 메모하는 습관과 지식 습득을 중요시합니다. </span>
+ ✍️ <span> 늘 기록하는 습관과 지식 습득을 중요시합니다. </span>
+
+ <br/>
+
+ ### Contact Me
+[![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:browniris7@naver.com)](mailto:brownniris7@naver.com)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://gelatinous-decade-fdf.notion.site/1de35b214e4a47e3b154e16afb153ee6?pvs=4)](https://gelatinous-decade-fdf.notion.site/1de35b214e4a47e3b154e16afb153ee6?pvs=4) 
  
  </div>
  
@@ -34,6 +40,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"> <br/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
