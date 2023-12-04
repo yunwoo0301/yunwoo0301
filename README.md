@@ -20,8 +20,7 @@
 
  ### Contact Me
 [![Naver Badge](https://img.shields.io/badge/-Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:browniris7@naver.com)](mailto:brownniris7@naver.com)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://gelatinous-decade-fdf.notion.site/1de35b214e4a47e3b154e16afb153ee6?pvs=4)](https://gelatinous-decade-fdf.notion.site/1de35b214e4a47e3b154e16afb153ee6?pvs=4) 
- 
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=Notion&logoColor=black&link=https://gelatinous-decade-fdf.notion.site/2a8968c193c14844b24135eba7f6d83e?pvs=4)](https://gelatinous-decade-fdf.notion.site/2a8968c193c14844b24135eba7f6d83e?pvs=4) 
  </div>
  
  <br/>
